@@ -1,0 +1,25 @@
+{
+  "name": "loli",
+  "version": "1.0.0",
+  "description": "世人笑我太疯癫，我笑他人看不穿",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrsWang/loli.git"
+  },
+  "keywords": [
+    "2021"
+  ],
+  "author": "小牙杨",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrsWang/loli/issues"
+  },
+  "homepage": "https://github.com/MrsWang/loli#readme",
+  "dependencies": {
+    "mysql2": "^2.2.5"
+  }
+}
