@@ -2,7 +2,7 @@
 
 # 重新来一次～ 
 
-# 关于 mysql & mysql2 的关系～～～
+### 关于 mysql & mysql2 的关系～～～
 
 node-mysql2 是 node-mysql 的升级版，兼容了 node-mysql 的API
 

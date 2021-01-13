@@ -19,7 +19,6 @@
     "url": "https://github.com/MrsWang/loli/issues"
   },
   "homepage": "https://github.com/MrsWang/loli#readme",
-  "dependencies": {
-    "mysql2": "^2.2.5"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
